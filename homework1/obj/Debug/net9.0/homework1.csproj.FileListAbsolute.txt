@@ -1,0 +1,14 @@
+/Users/burhanorucov/Desktop/C#/homework1/bin/Debug/net9.0/homework1
+/Users/burhanorucov/Desktop/C#/homework1/bin/Debug/net9.0/homework1.deps.json
+/Users/burhanorucov/Desktop/C#/homework1/bin/Debug/net9.0/homework1.runtimeconfig.json
+/Users/burhanorucov/Desktop/C#/homework1/bin/Debug/net9.0/homework1.dll
+/Users/burhanorucov/Desktop/C#/homework1/bin/Debug/net9.0/homework1.pdb
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.AssemblyInfoInputs.cache
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.AssemblyInfo.cs
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.csproj.CoreCompileInputs.cache
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.dll
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/refint/homework1.dll
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.pdb
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/homework1.genruntimeconfig.cache
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net9.0/ref/homework1.dll

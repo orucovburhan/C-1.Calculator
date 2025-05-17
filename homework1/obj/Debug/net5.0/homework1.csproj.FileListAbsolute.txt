@@ -1,0 +1,4 @@
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net5.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net5.0/homework1.AssemblyInfoInputs.cache
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net5.0/homework1.AssemblyInfo.cs
+/Users/burhanorucov/Desktop/C#/homework1/obj/Debug/net5.0/homework1.csproj.CoreCompileInputs.cache
